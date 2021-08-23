@@ -1,1 +1,1 @@
-# GlobalFunction
+# Global Function
